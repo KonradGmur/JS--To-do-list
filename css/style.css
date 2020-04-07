@@ -1,7 +1,7 @@
 body {
   margin: 80px;
   text-align: center;
-  background-image: url("/tape.jpg");
+  background-image: url("../tape.jpg");
   background-position: center;
   background-size: cover;
   background-attachment: fixed;

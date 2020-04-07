@@ -1,0 +1,26 @@
+body {
+  margin: 80px;
+  text-align: center;
+  background-image: url("/tape.jpg");
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+body button {
+  background-color: #0fc918;
+  color: #fff;
+  font-size: 20px;
+  border-radius: 5px;
+}
+
+body button:hover {
+  background-color: #db0d0d;
+  color: #fff;
+}
+
+body h1 {
+  margin: 50px;
+  color: #000000;
+}
+/*# sourceMappingURL=style.css.map */
